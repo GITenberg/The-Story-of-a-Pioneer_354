@@ -1,0 +1,44 @@
+_repo: The-Story-of-a-Pioneer_354
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Shaw, Anna Howard
+    birthdate: 1847
+    deathdate: 1919
+    gutenberg_agent_id: '196'
+    url: http://www.gutenberg.org/2009/agents/196
+  - agent_name: Jordan, Elizabeth Garver
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+description: This autobiography follows the life of Anna Shaw (1847-1919) from her
+  birth in Newcastle-on-Tyne, England through her presidency of the National American
+  Woman Suffrage Association. Shaw immigrated with her genteel but financially pressed
+  family to America in 1851. They settled first in New Bedford and then in Lawrence,
+  Massachusetts, finally migrating in 1859 to a pioneer farmstead in northern Michigan,
+  where Anna performed much of the subsistence labor during her father's long absences.
+  The first part of her narrative emphasizes her efforts to gain an education and
+  take up a ministerial career. After two years at Albion College, she attended Boston
+  Theological School (1876-1878) and accepted a pastorate in East Dennis, Cape Cod,
+  after graduation; later she also took temporary charge of the Congregational Church
+  in Dennis. After her ordination had been blocked by members of the New England Conference
+  of the Methodist Episcopal Church opposed to ordaining women, Shaw was ordained
+  by the 1880 Conference of the Methodist Protestant Church in Tarrytown, N.Y.
+gutenberg_issued: '1995-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shaw, Anna Howard, 1847-1919'
+- !lcsh 'Women''s rights -- United States'
+- !lcc 'JK'
+- !lcsh 'Women social reformers -- United States -- Biography'
+- !lcsh 'Women -- Suffrage -- United States'
+- GITenberg
+title: The Story of a Pioneer
+url: http://www.gutenberg.org/ebooks/354
