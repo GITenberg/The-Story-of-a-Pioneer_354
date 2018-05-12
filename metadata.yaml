@@ -1,5 +1,8 @@
 _repo: The-Story-of-a-Pioneer_354
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Shaw, Anna Howard
@@ -25,6 +28,8 @@ description: This autobiography follows the life of Anna Shaw (1847-1919) from h
   in Dennis. After her ordination had been blocked by members of the New England Conference
   of the Methodist Episcopal Church opposed to ordaining women, Shaw was ordained
   by the 1880 Conference of the Methodist Protestant Church in Tarrytown, N.Y.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/354#The-Story-of-a-Pioneer
 gutenberg_issued: '1995-11-01'
 gutenberg_type: Text
 identifiers:
